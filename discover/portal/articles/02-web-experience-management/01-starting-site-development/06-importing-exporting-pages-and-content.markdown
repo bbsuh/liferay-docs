@@ -59,6 +59,8 @@ should use @product@'s staging environment, which is discussed in the
 [Staging Content for Publication](/discover/portal/-/knowledge_base/7-0/staging-content-for-publication)
 section.
 
+**Note:** One important item to consider is that if the site's contents has any linked references from the Global scope or any other sites from the export environment, they will also need to be exported and imported into the target environment.
+
 LARs can be a good way to back up your site's content. You can export them to a
 specific location on your server which is backed up. If you ever have to restore
 your site, all you need to do is import the latest LAR file. However, please be
