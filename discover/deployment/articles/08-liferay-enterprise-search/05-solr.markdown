@@ -48,7 +48,7 @@ To install and properly configure Solr for @product@:
 
 4. In the `liferay` folder, create two new folders: `conf` and `data`.
 
-5. Copy the contents of `Solr_Home/configsets/data_driven_schema_configs/conf`
+5. Copy the contents of `Solr_Home/solr/configsets/data_driven_schema_configs/conf`
    to `Solr_Home/liferay/conf`.
 
 6. Open the Liferay Solr Adapter's LPKG file with an archive manager.
